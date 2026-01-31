@@ -68,3 +68,16 @@ Some parts closely follow the book, while others may be modified as learning pro
 - **Eric Matthes** — *Python Crash Course*
 - Django documentation
 
+
+---
+
+## Screenshots
+
+### Topics List
+![Topics Page](screenshots/topic.png)
+
+### Topic Detail & Entries
+![Topic wise entry page](screenshots/topic_wise_entry.png)
+
+### Add New Entry
+![Add Entry Page](screenshots/add_entry.png)
